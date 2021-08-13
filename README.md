@@ -8,7 +8,7 @@ Steps to run this project:
 
 
 Commands npm/yarn:
-´´´
+```
 	dev
 	typeorm:run
 	typeorm:revert
@@ -17,4 +17,4 @@ Commands npm/yarn:
 	typeorm:entity:create
 	typeorm:cache:clear
 	test
- ´´´
+ ```
